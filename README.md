@@ -10,8 +10,8 @@ Everything works natively at the font level via OpenType `calt` (*Contextual Alt
 
 | Font | File | Style | Contrast |
 | :--- | :--- | :--- | :--- |
-| **Arpic Sans** | `ArpicSans-Regular.ttf` | Sans-serif | Medeo Sans Display Regular + Bold |
-| **Arpic Serif** | `ArpicSerif-Regular.ttf` | Serif | Medeo Serif Regular + Auto-Bold |
+| **Arpic Sans** | `Arpic-Sans.ttf` | Sans-serif | Medeo Sans Display Regular + Bold |
+| **Arpic Serif** | `Arpic-Serif.ttf` | Serif | Medeo Serif Regular + Auto-Bold |
 
 ## Features
 
