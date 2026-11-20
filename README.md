@@ -6,8 +6,6 @@
 
 Everything works natively at the font level via OpenType `calt` (*Contextual Alternates*) — no browser extensions, plugins, or scripts required.
 
-![Arpic Fonts Preview](preview.png)
-
 ## Included Fonts
 
 | Font | File | Style | Contrast |
