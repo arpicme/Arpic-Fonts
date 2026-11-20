@@ -10,8 +10,8 @@
 
 | Шрифт | Файл | Тип | Контраст |
 | :--- | :--- | :--- | :--- |
-| **Arpic Sans** | `ArpicSans-Regular.ttf` | Гротеск (без засечек) | Medeo Sans Display Regular + Bold |
-| **Arpic Serif** | `ArpicSerif-Regular.ttf` | Антиква (с засечками) | Medeo Serif Regular + Auto-Bold |
+| **Arpic Sans** | `Arpic-Sans.ttf` | Гротеск (без засечек) | Medeo Sans Display Regular + Bold |
+| **Arpic Serif** | `Arpic-Serif.ttf` | Антиква (с засечками) | Medeo Serif Regular + Auto-Bold |
 
 ## Особенности
 
